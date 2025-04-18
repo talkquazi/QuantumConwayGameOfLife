@@ -2,7 +2,7 @@
 
 A quantum-inspired, pygame-powered take on Conway’s Game of Life. This simulation incorporates concepts like **superposition**, **probabilistic collapse**, and **non-local entanglement**, visualized in real time using glowing gradients and entanglement outlines.
 
-![Quantum Life Screenshot](quantumgameoflife.png)
+![Quantum Life Screenshot](quantumgameoflife.gif)
 
 ## ✨ Features
 
